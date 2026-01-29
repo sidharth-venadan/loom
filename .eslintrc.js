@@ -3,6 +3,5 @@ module.exports = {
   extends: [
     '@react-native',
     'prettier',
-    'prettier/react',
   ],
 };
